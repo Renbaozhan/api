@@ -1,0 +1,183 @@
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:24:32 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:24:32 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860272
+2017/04/22 11:24:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860272)
+2017/04/22 11:24:32 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:24:32 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:24:32 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:24:32 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:24:32 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:26:55 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:26:55 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860415
+2017/04/22 11:26:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860415)
+2017/04/22 11:26:55 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:26:55 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:26:55 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:26:55 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:26:55 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:27:09 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:27:09 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860429
+2017/04/22 11:27:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860429)
+2017/04/22 11:27:09 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:27:09 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:27:09 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:27:09 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:27:09 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:27:11 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:27:11 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860431
+2017/04/22 11:27:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860431)
+2017/04/22 11:27:11 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:27:11 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:27:11 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860431
+2017/04/22 11:27:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860431)
+2017/04/22 11:27:11 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:27:11 [trace] [system.web.filters.CFilterChain] Running filter ServiceController.filterauth()
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:27:11 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:27:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `service` /* secure-tag */
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "coreMessages" application component
+2017/04/22 11:27:11 [trace] [system.CModule] Loading "errorHandler" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:32:26 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:32:26 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860746
+2017/04/22 11:32:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860746)
+2017/04/22 11:32:26 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:32:26 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:32:26 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:32:26 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:32:26 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:33:12 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:12 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860792
+2017/04/22 11:33:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860792)
+2017/04/22 11:33:12 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:33:12 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:33:12 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:12 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:33:12 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:33:41 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:41 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860821
+2017/04/22 11:33:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860821)
+2017/04/22 11:33:41 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:33:41 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:33:41 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:41 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:33:41 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:33:49 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:49 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860829
+2017/04/22 11:33:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860829)
+2017/04/22 11:33:49 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:33:49 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:49 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860829
+2017/04/22 11:33:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860829)
+2017/04/22 11:33:49 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:33:49 [trace] [system.web.filters.CFilterChain] Running filter ServiceController.filterauth()
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:33:49 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:33:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `service` /* secure-tag */
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "coreMessages" application component
+2017/04/22 11:33:49 [trace] [system.CModule] Loading "errorHandler" application component
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:34:12 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:34:12 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860852
+2017/04/22 11:34:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860852)
+2017/04/22 11:34:12 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:34:12 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filterauth()
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:34:12 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:34:12 [trace] [system.web.filters.CFilterChain] Running filter SystemController.filteractionLog()
+2017/04/22 11:34:12 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:34:13 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:34:14 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:34:14 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860854
+2017/04/22 11:34:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860854)
+2017/04/22 11:34:14 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "viewRenderer" application component
+2017/04/22 11:34:14 [trace] [system.CModule] Loading "clientScript" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "session" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "log" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "request" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "urlManager" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "cache" application component
+2017/04/22 11:34:15 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:34:15 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1492860855
+2017/04/22 11:34:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT value FROM YiiCache WHERE id='0b6a3d6eab236bbdcbd3076e1079b4e7' AND (expire=0 OR expire>1492860855)
+2017/04/22 11:34:15 [trace] [system.caching.CDbCache] Serving "Yii.CUrlManager.rules" from cache
+2017/04/22 11:34:15 [trace] [system.web.filters.CFilterChain] Running filter ServiceController.filterauth()
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "db" application component
+2017/04/22 11:34:15 [trace] [system.db.CDbConnection] Opening DB connection
+2017/04/22 11:34:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `service` /* secure-tag */
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "coreMessages" application component
+2017/04/22 11:34:15 [trace] [system.CModule] Loading "errorHandler" application component
